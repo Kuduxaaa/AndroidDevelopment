@@ -1,4 +1,4 @@
-package java_homework;
+package java_exercises;
 
 import java.util.*;
 
