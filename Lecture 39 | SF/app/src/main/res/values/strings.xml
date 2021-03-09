@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lecture 39 | Signup Form</string>
+	<string name="usernameField">Username</string>
+	<string name="emailField">Email</string>
+	<string name="phoneField">Phone number</string>
+	<string name="passwordField">Password</string>
+	<string name="keyField">Invite Key</string>
+</resources>
